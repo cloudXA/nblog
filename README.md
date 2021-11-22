@@ -2,7 +2,7 @@
 ### 代码学习方法论
 * [如何阅读代码](https://github.com/cloudXA/nblog/issues/2)
 * [mvv*设计模式](https://juejin.im/post/5e9c64326fb9a03c8d4a0844)
-* [编程范式]
+* [编程范式](https://github.com/cloudXA/nblog/issues/10)
 ### JavaScript基础知识
 * [*this绑定丢失及深拷贝实现](https://github.com/cloudXA/nblog/issues/4)
 ### Vue学习笔记
